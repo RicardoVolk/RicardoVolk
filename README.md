@@ -4,7 +4,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Quality Assurance
 - 💞️ I’m looking to collaborate on community
-- 👨‍🎓 I’m student a systems analysis and development
+- 👨‍🎓 I’m Mobile developer
 ##
 
 <div>
